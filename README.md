@@ -1,4 +1,4 @@
-# Simple calculator
+# Simple calculator 
 ## Supported operations:
 Addition (+), Subtraction (-), Multiplication (*), and Division (/).
 ## Reset function: 
